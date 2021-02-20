@@ -3045,6 +3045,150 @@ f f f f
 2 . . . 2 
 . . . . . 
 `;
+            case "image189":return img`
+. . . . . 
+. . . . . 
+3 3 3 3 3 
+. . . . . 
+3 3 3 3 3 
+. . . . . 
+. . . . . 
+`;
+            case "image190":return img`
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+`;
+            case "image191":return img`
+. . . . . 
+. . . . . 
+. . . . 7 
+. . . 7 . 
+7 . 7 . . 
+. 7 . . . 
+. . . . . 
+`;
+            case "image192":return img`
+. . . . . 
+2 . . . 2 
+. 2 . 2 . 
+. . 2 . . 
+. 2 . 2 . 
+2 . . . 2 
+. . . . . 
+`;
+            case "image193":return img`
+. . . . . 
+. . . . . 
+3 3 3 3 3 
+. . . . . 
+3 3 3 3 3 
+. . . . . 
+. . . . . 
+`;
+            case "image194":return img`
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+`;
+            case "image195":return img`
+. . . . . 
+. . . . . 
+. . . . 7 
+. . . 7 . 
+7 . 7 . . 
+. 7 . . . 
+. . . . . 
+`;
+            case "image196":return img`
+. . . . . 
+2 . . . 2 
+. 2 . 2 . 
+. . 2 . . 
+. 2 . 2 . 
+2 . . . 2 
+. . . . . 
+`;
+            case "image197":return img`
+. . . . . 
+. . . . . 
+3 3 3 3 3 
+. . . . . 
+3 3 3 3 3 
+. . . . . 
+. . . . . 
+`;
+            case "image198":return img`
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+`;
+            case "image199":return img`
+. . . . . 
+. . . . . 
+. . . . 7 
+. . . 7 . 
+7 . 7 . . 
+. 7 . . . 
+. . . . . 
+`;
+            case "image200":return img`
+. . . . . 
+2 . . . 2 
+. 2 . 2 . 
+. . 2 . . 
+. 2 . 2 . 
+2 . . . 2 
+. . . . . 
+`;
+            case "image201":return img`
+. . . . . 
+. . . . . 
+3 3 3 3 3 
+. . . . . 
+3 3 3 3 3 
+. . . . . 
+. . . . . 
+`;
+            case "image202":return img`
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+f f f f 
+`;
+            case "image203":return img`
+. . . . . 
+. . . . . 
+. . . . 7 
+. . . 7 . 
+7 . 7 . . 
+. 7 . . . 
+. . . . . 
+`;
+            case "image204":return img`
+. . . . . 
+2 . . . 2 
+. 2 . 2 . 
+. . 2 . . 
+. 2 . 2 . 
+2 . . . 2 
+. . . . . 
+`;
         }
         return null;
     })
